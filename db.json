@@ -1,0 +1,36 @@
+{
+  "allEvents": [
+    {
+      "id": "27bf",
+      "title": "React + WP",
+      "desc": "React Workshop",
+      "location": "Kannur",
+      "date": "2024-10-09",
+      "imageURL": "https://i.pinimg.com/originals/48/89/38/488938d6eec996de2365b072357aac16.jpg"
+    },
+    {
+      "id": "f450",
+      "title": "Marathon",
+      "desc": "21km run ",
+      "location": "Cochi",
+      "date": "2024-11-09",
+      "imageURL": "https://tse3.mm.bing.net/th?id=OIP.Jtcsbqf25pW6QkoNGsBdmQAAAA&pid=Api&P=0&h=220"
+    },
+    {
+      "id": "32b4",
+      "title": "Craft Workshop",
+      "desc": "A 3 day workshop conducted for free.",
+      "location": "Mumbai",
+      "date": "2024-10-22",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ee8XubEm2-rEvaE2AdlMrIZ82r9oRZZ3Dg&s"
+    },
+    {
+      "id": "49bf",
+      "title": "Zumba",
+      "desc": "Bollywood Zumba danceoff",
+      "location": "Kannur",
+      "date": "2024-10-15",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2PYarumFkis4QIikP0cSiLKyzWhsjdi6xxnkiyg1rq9mQBFVrYSoEaWcPYKEzgLzbp38&usqp=CAU"
+    }
+  ]
+}
